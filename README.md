@@ -1,34 +1,35 @@
-##euro loch halter
+# Holder with euro loch
+# holder with eurohole
 
 ![](euroloch.png)
 
-I design a holder for the future erfindergarden prodcuts today.
+I design a holder for the future erfindergarden prodcuts today so you can hang it on hooks with an euro hole. 
 
 Here the online version [http://a360.co/2F6YGom](http://a360.co/2F6YGom)
 
 ![](drawing.png)
 
-##How you can help?
+## How you can help?
 
-* also make more products in fablab
+* also make more products in a fab lab
 * start a etsy shop
 * do workshops with kids on how to design a product
 * design a euroloch perforator
 
 
 
-##Contact
+## Contact
 
 Andreas Kopp
 
 [andreas@erfindergarden.de](mailto:andreas@erfindergarden.de)
 
 
-##Credits
+## Credits
  
 Thank you industry for the euro hole. 
 
-##Licence
+## Licence
 
 This project is [Public Domain (CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). Nobody cares what you do with this stuff.
 
