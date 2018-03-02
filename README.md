@@ -3,7 +3,7 @@
 
 ![](euroloch.png)
 
-I design a holder for the future erfindergarden prodcuts today so you can hang it on hooks with an euro hole. 
+I design a holder for the future erfindergarden prodcuts today so you can hang it on hooks with an euro hole. You 3D print this holder or lasercut out of cardboard or paper and then attach it with tacker to a plastic bag.
 
 Here the online version [http://a360.co/2F6YGom](http://a360.co/2F6YGom)
 
